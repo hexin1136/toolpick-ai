@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+# 改动原因：HTML 已 noindex，并指向 https://hexin1136.github.io/ 上的对应页面。
+# 正式 sitemap 在站点根目录，不在这个重复副本里提交第二套正文。
 Sitemap: https://hexin1136.github.io/sitemap.xml
